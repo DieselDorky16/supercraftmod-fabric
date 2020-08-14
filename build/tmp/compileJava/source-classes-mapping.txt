@@ -1,2 +1,0 @@
-com/christopher/supercraft/Supercraft.java
- com.christopher.supercraft.Supercraft
