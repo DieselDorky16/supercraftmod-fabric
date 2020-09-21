@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "X",
+    "X",
+    "#"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:stick"
+    },
+    "X": {
+      "tag": "minecraft:villager_spawn_egg"
+    }
+  },
+  "result": {
+    "item": "supercraft:aspect_of_the_jerry"
+  }
+}

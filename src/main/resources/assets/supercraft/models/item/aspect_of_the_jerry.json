@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "supercraft:hypixel_skyblock/ite/aspect_of_the_jerry"
+  }
+}

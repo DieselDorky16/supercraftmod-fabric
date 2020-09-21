@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/inner_stairs",
+  "textures": {
+    "bottom": "supercraft:block/mossy_polished_blackstone_bricks",
+    "top": "supercraft:block/mossy_polished_blackstone_bricks",
+    "side": "supercraft:block/mossy_polished_blackstone_bricks"
+  }
+}

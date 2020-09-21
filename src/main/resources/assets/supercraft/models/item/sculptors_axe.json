@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "supercraft:hypixel_skyblock/item/sculptors_axe"
+  }
+}

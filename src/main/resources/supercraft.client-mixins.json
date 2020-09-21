@@ -1,0 +1,17 @@
+{
+  "required": true,
+  "minVersion": "0.8",
+  "package": "com.christopher.supercraft.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+  ],
+  "client": [
+    "SupercraftMixin",
+    "BlockItemDropMixin",
+    "EntityItemDropMixin",
+    "PlayerTelekenesisTrackerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

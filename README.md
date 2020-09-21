@@ -1,5 +1,5 @@
 ## Minecraft Fabric 1.16 - Supercraft (beta)
-The complete source code for an upcoming mod known as Supercraft. This mod requires the Fabric API.
+The complete source code for an upcoming mod known as Supercraft. It implements features from Enhancedcraft and Ultracraft mods. We're also adding more features as we update. This mod requires the Fabric API.
 
 This mod is currently in beta, and bugs may be present in this version. Please back up your worlds before running this mod.
 

@@ -1,0 +1,16 @@
+{
+  "variants": {
+    "axis=x": {
+      "model": "supercraft:block/polished_basalt_stone",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "supercraft:block/polished_basalt_stone"
+    },
+    "axis=z": {
+      "model": "supercraft:block/polished_basalt_stone",
+      "x": 90
+    }
+  }
+}

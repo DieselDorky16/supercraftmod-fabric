@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "supercraft:hoglin_meat"
+  },
+  "result": "supercraft:cooked_hoglin_meat",
+  "experience": 0.35,
+  "cookingtime": 200
+}

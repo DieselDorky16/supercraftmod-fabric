@@ -20,11 +20,18 @@
   "entrypoints": {
     "main": [
       "com.christopher.supercraft.Supercraft"
+    ],
+    "client": [
+      "com.christopher.supercraft.client.ZoomFeature"
     ]
   },
   "mixins": [
+    {
+      "config": "supercraft.client-mixins.json",
+      "environment": "client"
+    }
   ],
-
+  "accessWidener": "supercraft.accesswidener",
   "depends": {
     "fabricloader": ">=0.7.4",
     "fabric": "*",
